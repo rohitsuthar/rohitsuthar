@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+<p align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Caveat&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=I'm+Rohit+Suthar%2C+Full+Stack+Developer" alt="Rohit Suthar, Full Stack Developer" />
+</p>
 <!--
 **rohitsuthar/rohitsuthar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
