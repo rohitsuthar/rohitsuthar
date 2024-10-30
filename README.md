@@ -1,7 +1,10 @@
 ## Hi there 👋 
-<p align="right"><img src="https://komarev.com/ghpvc/?username=rohitsuthar&abbreviated=true" /></p>
+<p align="right"><img src="https://komarev.com/ghpvc/?username=rohitsuthar&abbreviated=true" alt="Rohit Suthar, Full Stack Developer" /></p>
 <p align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Caveat&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=I'm+Rohit+Suthar%2C+Full+Stack+Developer" alt="Rohit Suthar, Full Stack Developer" />
+</p>
+<p align="center">
+    <img src="https://rohitsuthar.github.io/images/skills.png" alt="Programming skills" width="70%" />
 </p>
 <!--
 **rohitsuthar/rohitsuthar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
